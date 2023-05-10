@@ -30,11 +30,6 @@
 
 <!-- - ⚡ Fun fact vim user without linux env 😅 -->
 
-<div>
-  <div>
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=carlosnieto1601&theme=tokyonight&show_icons=true&count_public=true">
-  </div>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
